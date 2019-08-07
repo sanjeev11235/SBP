@@ -5,6 +5,7 @@
 			<item value="com.san"/>
 		</list>
 		<list key="name">
+			<item value="differentScope"/>
 			<item value="constructorAutowiring"/>
 			<item value="setterAutowiring"/>
 			<item value="propertyAutowiring"/>
@@ -13,6 +14,7 @@
 			<item value="HelloWorldDemo"/>
 		</list>
 		<list key="artifactId">
+			<item value="differentScope"/>
 			<item value="constructorAutowiring"/>
 			<item value="setterAutowiring"/>
 			<item value="propertyAutowiring"/>
