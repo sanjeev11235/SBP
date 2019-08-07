@@ -1,0 +1,10 @@
+package com.san.beans;
+
+public class B {
+
+	public B() {
+		super();
+		System.out.println("B constructor is invoked");
+	}
+
+}
